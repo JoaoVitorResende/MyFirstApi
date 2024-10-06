@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "E:\\Downloads\\Git\\Api\\MyFirstApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\controllers\\myfirrstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:controllers\\myfirrstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\comunication\\requests\\requestchangepasswordjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:comunication\\requests\\requestchangepasswordjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\comunication\\requests\\requestregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:comunication\\requests\\requestregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\comunication\\requests\\requestupdateuserprofilejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:comunication\\requests\\requestupdateuserprofilejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\comunication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:comunication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|e:\\downloads\\git\\api\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25EEECB-1EE2-45B0-9991-F5AD1F8C27C7}|MyFirstApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RequestChangePasswordJson.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Requests\\RequestChangePasswordJson.cs",
-              "RelativeDocumentMoniker": "Comunication\\Requests\\RequestChangePasswordJson.cs",
-              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Requests\\RequestChangePasswordJson.cs",
-              "RelativeToolTip": "Comunication\\Requests\\RequestChangePasswordJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MyFirrstApiBaseController.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Controllers\\MyFirrstApiBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyFirrstApiBaseController.cs",
+              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Controllers\\MyFirrstApiBaseController.cs",
+              "RelativeToolTip": "Controllers\\MyFirrstApiBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:30:50.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RequestUpdateUserProfileJson.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Requests\\RequestUpdateUserProfileJson.cs",
-              "RelativeDocumentMoniker": "Comunication\\Requests\\RequestUpdateUserProfileJson.cs",
-              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Requests\\RequestUpdateUserProfileJson.cs",
-              "RelativeToolTip": "Comunication\\Requests\\RequestUpdateUserProfileJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:45:26.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResponseRegisteredUserJson.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Responses\\ResponseRegisteredUserJson.cs",
-              "RelativeDocumentMoniker": "Comunication\\Responses\\ResponseRegisteredUserJson.cs",
-              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Responses\\ResponseRegisteredUserJson.cs",
-              "RelativeToolTip": "Comunication\\Responses\\ResponseRegisteredUserJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:21:52.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RequestRegisterUserJson.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Requests\\RequestRegisterUserJson.cs",
-              "RelativeDocumentMoniker": "Comunication\\Requests\\RequestRegisterUserJson.cs",
-              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Comunication\\Requests\\RequestRegisterUserJson.cs",
-              "RelativeToolTip": "Comunication\\Requests\\RequestRegisterUserJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:12:58.884Z",
+              "WhenOpened": "2024-10-05T16:50:04.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:59:59.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T15:44:31.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:20:36.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Downloads\\Git\\Api\\MyFirstApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T22:49:53.652Z"
+              "WhenOpened": "2024-10-02T21:20:36.814Z"
             }
           ]
         }

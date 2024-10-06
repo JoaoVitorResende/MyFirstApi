@@ -2,9 +2,7 @@
 using MyFirstApi.Comunication.Requests;
 using MyFirstApi.Comunication.Responses;
 namespace MyFirstApi.Controllers;
-[Route("api/[controller]")]
-[ApiController]
-public class UserController : ControllerBase
+public class UserController : MyFirrstApiBaseController
 {
     [HttpGet]
     [Route("{Id}")]
@@ -51,7 +49,8 @@ public class UserController : ControllerBase
             new User{Id = 2, Age = 2 , Name = "Test"},
             new User{Id = 3, Age = 3 , Name = "Test2"}
         };
-        return Ok(response);
+        var key = GetCustomKey();
+        return Ok(key);
     }
     [HttpPut("ChangePassword")]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
